@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/drmatt/tardis/Tardis_Console5_I67"
+	"$translucent" 1
+}
